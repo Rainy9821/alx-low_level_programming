@@ -17,8 +17,7 @@ int main(void)
 	{
 		putchar(num);
 		num++;
-	}
-	
+	}	
 	while (letter <= 'f') /*print a-f*/
 	{
 		putchar(letter);
