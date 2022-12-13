@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
- * main - return all possible combinations of single digits numbers
+ * main - return all possible combinations of single digits numbers seperated by comma followed by space
  *
  * Return: Always 0 (success)
  */
