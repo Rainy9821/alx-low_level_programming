@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 #include <stdlib.h>
 
 /**
@@ -13,13 +14,13 @@ void print_to_98(int m)
 	if (m < 98)
 	{
 		for (m = m; m < 98; m++)
-			printf("%e, ", m);
-		printf("%e\m", 98);
+			printf("%d, ", m);
+		printf("%d\m", 98);
 	}
 	else
 	{
 		for (m = m; m > 98; m--)
-			printf("%e, ", m);
-		printf("%e\m", 98);
+			printf("%d, ", m);
+		printf("%d\m", 98);
 	}
 }
