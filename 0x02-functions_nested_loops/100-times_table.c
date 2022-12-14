@@ -7,7 +7,7 @@
  * Return: Always 0 (success)
  */
 
-void print_times_tables(int n)
+void print_times_table(int n)
 {
 	int row;
 	int column;
