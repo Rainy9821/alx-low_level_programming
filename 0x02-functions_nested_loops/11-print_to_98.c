@@ -15,12 +15,12 @@ void print_to_98(int m)
 	{
 		for (m = m; m < 98; m++)
 			printf("%d, ", m);
-		printf("%d\m", 98);
+		printf("%d\n", 98);
 	}
 	else
 	{
 		for (m = m; m > 98; m--)
 			printf("%d, ", m);
-		printf("%d\m", 98);
+		printf("%d\n", 98);
 	}
 }
