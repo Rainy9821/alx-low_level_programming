@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * print_times_table - print n time table starting with 0
+ * print_times_table - print time table with a number
  * @n: value of the number
  * Return: Always 0
  */
