@@ -5,7 +5,7 @@
  * Return: something
  */
 
-ine main(void)
+int main(void)
 
 {
 	long int i, j, k, l;
