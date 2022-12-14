@@ -4,7 +4,6 @@
  * tomes_table - print the 9 times table starting from 0
  * Return: Always 0
  */
-
 void times_table(void)
 {
 	int a, b, c;
