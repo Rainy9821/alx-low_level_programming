@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_times_table - print time table with provided number
+ * print_times_table - prints time table with provided number
  * @n: the provided value by the user
  * Return: Always 0 (success)
  */
