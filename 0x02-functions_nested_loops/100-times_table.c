@@ -3,9 +3,9 @@
 #include <stdlib.h>
 
 /**
- * print_times_table - print time table with a number
- * @n: value of the number
- * Return: Always 0
+ * print_times_table - print time table with provided number
+ * @n: the provided value by the user
+ * Return: Always 0 (success)
  */
 
 void print_times_tables(int n)
