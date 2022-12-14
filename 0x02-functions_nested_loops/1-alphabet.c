@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * main - prints the alphabets in lower cases followed by a new line.
+ * print_alphabet - entry point
  *
  * Return: Always 0 (success)
  */
 
-int main(void)
+void print_alphabet(void)
 {
 	char c = 'a';
 	while (c <= 'z')
