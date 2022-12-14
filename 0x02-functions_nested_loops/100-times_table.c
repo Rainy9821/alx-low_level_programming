@@ -1,6 +1,5 @@
 #include "main.h"
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
  * print_times_table - print time table with provided number
@@ -9,7 +8,6 @@
  */
 
 void print_times_tables(int n)
-
 {
 	int row;
 	int column;
