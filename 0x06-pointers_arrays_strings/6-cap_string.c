@@ -5,7 +5,8 @@
  * separators of words are: space, tabulation
  * new line
  * @s: Pointer to string
- * Return: Always 0
+ *
+ * Return: Pointer to s
  */
 
 char *cap_string(char *s)
